@@ -1,3 +1,4 @@
+' Created in High School
 ﻿Public Class SHA1
     ' Created by: Nisarga Patel
     ' License: MIT
